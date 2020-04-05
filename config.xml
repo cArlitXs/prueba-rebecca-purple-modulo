@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>prueba</name>
+	<displayName><![CDATA[prueba]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Detectar cuando un pedido pasa al estado “pago aceptado” y cambiar su estado a “sincronizado” ]]></description>
+	<author><![CDATA[Carlos Alvarez Linares]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
